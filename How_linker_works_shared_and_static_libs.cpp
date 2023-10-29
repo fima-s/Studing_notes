@@ -257,6 +257,3 @@ $ ./main
 LD_LIBRARY_PATH, в ней нужно указать директорию с динамич библиотекой.
 
 LD_LIBRARY_PATH=. ./main
-
-
-
